@@ -1,2 +1,2 @@
 # Graphein
-Self software engineering project to cover all the technical aspects of developing an application (backend, api, frontend, containers...). The main objective was to provide an overview of the entire software development process.
+This personal software engineering project was structured to cover all technical facets of application development, from initial design to final deployment. The primary objective was to provide a holistic overview of the software development process, with a specific focus on robust implementation and the efficiency of all utilized languages and frameworks.
